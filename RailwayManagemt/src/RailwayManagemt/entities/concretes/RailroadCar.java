@@ -14,6 +14,7 @@ public class RailroadCar {
     private String type;
     private double minCargoWeight;
     private double maxCargoWeight;
+    private String deneme;
 
     public RailroadCar() {
     }
